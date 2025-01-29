@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple RESTful API built using Go and the `gorilla/mux` package. The API provides an endpoint that returns a JSON response containing an email, the current date and time, and a GitHub URL. The server includes CORS support to allow cross-origin requests.
+This is a simple RESTful API built using Go and the `gorilla/mux` package. The API provides an endpoint that returns a JSON response containing an email, the current date and time, and a GitHub URL. This part of the [HNG-12](hng.tech) tech internship program.
 
 ## Features
 
@@ -25,7 +25,7 @@ This is a simple RESTful API built using Go and the `gorilla/mux` package. The A
 {
   "email": "oguejioforrichard@gmail.com",
   "current_datetime": "2025-01-29T12:00:00Z",
-  "github_url": "https://github.com/ikennarichard/hng12/stage-0"
+  "github_url": "https://github.com/ikennarichard/hng12/"
 }
 ```
 
@@ -68,3 +68,14 @@ Use `curl` to measure response time:
 ```bash
 time curl -X GET http://localhost:8000/
 ```
+
+## Resources
+
+Check out these HNG resources
+
+- [Python Devs](https://hng.tech/hire/python-developers)
+- [CSharp Devs](https://hng.tech/hire/csharp-developers)
+- [Golang Devs](https://hng.tech/hire/golang-developers)
+- [PHP Devs](https://hng.tech/hire/php-developers)
+- [Java Devs](https://hng.tech/hire/java-developers)
+- [Nodejs Devs](https://hng.tech/hire/nodejs-developers)
