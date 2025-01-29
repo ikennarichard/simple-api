@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple RESTful API built using Go and the `gorilla/mux` package. The API provides an endpoint that returns a JSON response containing an email, the current date and time, and a GitHub URL. This part of the [HNG-12](hng.tech) tech internship program.
+This is a simple RESTful API built using Go and the `gorilla/mux` package. The API provides an endpoint that returns a JSON response containing an email, the current date and time, and a GitHub URL. This part of the [HNG-12](https://hng.tech) tech internship program.
 
 ## Features
 
