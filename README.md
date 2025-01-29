@@ -73,9 +73,4 @@ time curl -X GET http://localhost:8000/
 
 Check out these HNG resources
 
-- [Python Devs](https://hng.tech/hire/python-developers)
-- [CSharp Devs](https://hng.tech/hire/csharp-developers)
 - [Golang Devs](https://hng.tech/hire/golang-developers)
-- [PHP Devs](https://hng.tech/hire/php-developers)
-- [Java Devs](https://hng.tech/hire/java-developers)
-- [Nodejs Devs](https://hng.tech/hire/nodejs-developers)
