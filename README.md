@@ -1,4 +1,4 @@
-# Go API with Gorilla/Mux
+# Public API
 
 ## Overview
 
