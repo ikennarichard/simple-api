@@ -29,7 +29,7 @@ func TestHandler(t *testing.T) {
 	}
 
 	emailAddress := "oguejioforrichard@gmail.com"
-	gitHubURL := "https://github.com/ikennarichard/hng12/stage-0"
+	gitHubURL := "https://github.com/ikennarichard/hng-12/"
 
 	if response.Email != emailAddress {
 		t.Errorf("Wrong email: got %v, instead of %v", response.Email, emailAddress)
