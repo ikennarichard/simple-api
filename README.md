@@ -1,4 +1,4 @@
-# Public API
+# Simple API
 
 ## Overview
 
